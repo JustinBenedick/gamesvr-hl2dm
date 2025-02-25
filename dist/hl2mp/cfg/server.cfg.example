@@ -1,8 +1,9 @@
 // HL2MP Server Config file
 // put this file (server.cfg) in the cfg folder (this file is for HL2DM SRCDS servers only)
 
-hostname "Half-Life 2 DeathMatch!"
+hostname "Half-Life 2 DeathMatch! Server"
 
+// Weapon and item respawn times
 sv_hl2mp_weapon_respawn_time 20
 sv_hl2mp_item_respawn_time 30
 
